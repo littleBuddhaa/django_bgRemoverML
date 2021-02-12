@@ -1,9 +1,9 @@
 # django_bgRemoverML
 
-A Machine Learning Project integrated with Django to Remove Background from Image .
+A Machine Learning Project integrated with Django to Remove Background from Image. 
 
 ## Installation:
-
+(used python 3.7)
 - git clone https://github.com/FarjaalAhmad/django_bgRemoverML
 - cd django_bgRemoverML
 - python3 -m pip install -r requirements.txt
@@ -13,17 +13,10 @@ A Machine Learning Project integrated with Django to Remove Background from Imag
 
 ### Supported OS:
 
-- Linux
+- macOS 
 
 ### For API Usage:
 
 Make a POST request to http://localhost:8000/upload with the Following parameters.
 image=[BASE64 ENCODED IMAGE HERE]
 
-### Bugs:
-
-- If you found any bugs, Feel Free to create an Issue.
-
-### Contribution:
-
-- If you want to Contribute into this Project, Feel free to make Pull Request.
